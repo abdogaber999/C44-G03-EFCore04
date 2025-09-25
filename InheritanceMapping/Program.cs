@@ -82,6 +82,7 @@ namespace InheritanceMapping
 
             #endregion
 
+            
             #region Q3- 1.Create a class Product[Id, Name] - 2. Create a class Book [Id, Name, Author] - 3. Create a class Electronics [Id, Name, Brand] -Note : No base table exists, and both Book and Electronics have their own tables.
 
             using (var context = new AppDbContext())
