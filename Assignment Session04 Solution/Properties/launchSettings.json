@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Assignment Session04 Solution": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
